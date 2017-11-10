@@ -2,42 +2,38 @@
 
 # CREDITS:
 
-Bootstrap
-http://getbootstrap.com/
+[Bootstrap](http://getbootstrap.com/)
 
-jQuery
-http://jquery.com/
+[jQuery]
+(http://jquery.com/)
 
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
+[jQuery Easing
+(http://gsgd.co.uk/sandbox/jquery/easing/)
 
-Modernizr
-http://modernizr.com/
+[Modernizr
+(http://modernizr.com/)
 
-Google Fonts
-https://www.google.com/fonts/
+[Google Fonts
+(https://www.google.com/fonts/)
 
-Icomoon
-https://icomoon.io/app/
+[Icomoon
+(https://icomoon.io/app/)
 
-Simple Line Icons
-https://github.com/thesabbir/simple-line-icons
+[Simple Line Icons
+(https://github.com/thesabbir/simple-line-icons)
 
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
+[Respond JS
+(https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT)
 
-animate.css
-http://daneden.me/animate
+[animate.css
+(http://daneden.me/animate)
 
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+(jQuery Waypoint
+[https://github.com/imakewebthings/waypoints/blog/master/licenses.txt)
 
 
-Stellar Parallax
-http://markdalgleish.com/projects/stellar.js/
+[Stellar Parallax](http://markdalgleish.com/projects/stellar.js/)
 
-Demo Images:
-http://unsplash.com
+[Demo Images:](http://unsplash.com)
 
-jQuery Counter
-https://github.com/mhuggins/jquery-countTo
+[jQuery Counter](https://github.com/mhuggins/jquery-countTo)
